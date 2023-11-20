@@ -1,2 +1,2 @@
 # Project
-personal project
+MIT6.828
